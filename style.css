@@ -1,4 +1,4 @@
-/* Start Global Rules  */
+/* Start Global Rules  */ 
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -233,8 +233,8 @@ body {
   border-radius: 6px;
   animation: finishb .5s ease-in-out infinite;
   user-select: none;
-}
-
+} 
+ 
 @keyframes finishb {
   0%, 100% {
     box-shadow: 0 0 20px black inset;
@@ -243,7 +243,7 @@ body {
     box-shadow: 0 0 20px rgb(255, 17, 0) inset;
   }
 }
-
+  
 .game .container .finish .good {
   background-color: #eee;
   width: 100%;
@@ -263,7 +263,7 @@ body {
     box-shadow: 0 0 20px rgb(0, 255, 128) inset;
   }
 }
-
+  
 .again {
   width: fit-content;
   margin: 20px auto;
