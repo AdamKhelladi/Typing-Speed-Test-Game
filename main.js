@@ -28,7 +28,6 @@
   ---- [06] Add 3 Seconds For The First Word
 */
 
-
 // Array Of Words
 let words = [
   "Hello",
